@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="/placeholder.svg?height=200&width=200" alt="Votre nom" style="border-radius:50%;">
   <h1>👋 Bonjour, je suis Mitikx</h1>
   <p><em>Développeur passionné | Créateur d'expériences numériques</em></p>
 </div>
