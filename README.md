@@ -45,10 +45,6 @@
   <img src="https://skillicons.dev/icons?i=react,cs&theme=light" />
 </div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mitikx&theme=radical" alt="Mitikx" />
-</p>
-
 ## 📈 Mon Parcours d'Apprentissage
 
 ```mermaid title="Parcours d'Apprentissage" type="diagram"
