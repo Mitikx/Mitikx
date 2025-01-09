@@ -5,7 +5,7 @@
 <h1 align="center">👨‍💻 Étudiant Développeur Passionné</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Développeur+Full+Stack+en+devenir;Passionné+par+l'apprentissage+continu;Créatif+et+innovant&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Développeur+Full+Stack+en+devenir; Passionné+par+l'apprentissage+continu; Créatif+et+innovant&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
 </p>
 
 <div align="center">
